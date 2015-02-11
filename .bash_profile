@@ -1,0 +1,5 @@
+alias work="cd ~/Documents/Work"
+alias server="python -m SimpleHTTPServer"
+alias httpd="atom /Applications/MAMP/conf/apache/httpd.conf"
+alias copyatom=""
+alias copybash=""

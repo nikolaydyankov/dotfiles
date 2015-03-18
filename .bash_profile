@@ -1,6 +1,8 @@
 alias work="cd ~/Documents/Work"
+alias bash="atom ~/.bash_profile"
 alias server="python -m SimpleHTTPServer"
 alias httpd="atom /Applications/MAMP/conf/apache/httpd.conf"
+alias vhosts="atom /Applications/MAMP/conf/apache/extra/httpd-vhosts.conf"
 alias copyatom="cp -R ~/.atom /Users/dyankov/Documents/github/atom-dotfiles/"
 alias copybash="cp ~/.bash_profile ~/Documents/github/dotfiles/"
 alias todo="atom ~/Documents/Work/other/work.php"
